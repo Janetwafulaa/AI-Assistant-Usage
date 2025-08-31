@@ -1,4 +1,4 @@
-# AI-Assistant-Usage-
+# AI-Assistant-Usage
 
 ##  Project Overview
 This project focuses on building and evaluating machine learning classification models to predict the target variable from a given dataset.  
